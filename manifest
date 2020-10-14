@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# initalize manifest with non-null values
+repository=nothing
+parent=nothing
+variants=(nothing)
